@@ -1,1 +1,2 @@
-I
+-I feel somewhat confident. As with the other new topics its just a matter of practice and repetition.
+-I would liek to use my resources and do some more personal research on arrays and methods
