@@ -7,3 +7,6 @@ friendsAge.shift(20);
 var likesCoffee = [true, true, false, true];
 //will remove the last element from an array
 likesCoffee.pop(true);
+
+//Index positions start from 0 and go up by one down the line.
+ //For ex: In the last array the index positions left to right are 0, 1, 2, 3
